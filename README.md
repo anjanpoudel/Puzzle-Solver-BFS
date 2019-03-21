@@ -2,11 +2,13 @@
 This program solves the puzzle, Intelligently, in a optimal way. The concept used here is BFS and language used is Java. 
 
 # INITIAL STATE
+![Image description](https://github.com/anjanpoudel/optimal-pathfinder/blob/master/initial_state.png)
 
 # GOAL OF THE PUZZLE
 The goal is to move the red piece (0) to a position adjacent to the top. That is, move it to where the orange piece (10) is currently located. Black pieces cannot be moved. The pieces cannot overlap. The pieces cannot be rotated. Think about solving this with mind. For very smart person on earth it will take atleast 1hr. But Computer Algorithm solves it in 2 minutes(thats a lot for computer as well but its complex)
 
 # FINAL STATE
+![Image description](https://github.com/anjanpoudel/optimal-pathfinder/blob/master/final_state.png)
 
 # HOW TO RUN 
 To run this puzzle clone the project and run following command in linux terminal
